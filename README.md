@@ -88,6 +88,18 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact" alt="drxv3" /></p>
+<!-- Most Used Languages -->
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+       alt="drxv3" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en" alt="drxv3" /></p>
+<!-- GitHub Stats -->
+<p>
+  &nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en&theme=tokyonight" 
+       alt="drxv3" />
+</p>
+
