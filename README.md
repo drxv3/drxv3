@@ -88,18 +88,24 @@
 
 
 
-<!-- Most Used Languages -->
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
-       alt="drxv3" />
-</p>
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact&theme=default" />
+  <img alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=drxv3&show_icons=true&locale=en&layout=compact" />
+</picture>
+
 
 <!-- GitHub Stats -->
-<p>
-  &nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en&theme=tokyonight" 
-       alt="drxv3" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en&theme=default" />
+  <img alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=drxv3&show_icons=true&locale=en" />
+</picture>
 
