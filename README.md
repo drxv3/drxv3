@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my DSA Skills**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **new projects**
 
